@@ -1,27 +1,41 @@
 # Hi, I'm Ashraf Mostafa 👋
 
-**Cybersecurity Student · Elsewedy University of Technology · Cairo, Egypt**
+**Cybersecurity Student (2nd Year) · Elsewedy University of Technology · Cairo, Egypt**
 
-I'm a cybersecurity student (Network & Cyber Security track) passionate about defensive
-security, threat analysis, and building tools that make systems safer. I learn by doing —
-breaking things in labs, then writing about how to defend them.
+I'm a 2nd-year cybersecurity student (Network & Cyber Security track) focused on
+defensive security. I learn by working through labs, reading about real incidents,
+and turning notes into reusable cheatsheets.
+
+---
+
+## 🎓 Education
+
+- **B.Sc. in Cybersecurity (Network & Cyber Security track)** — Elsewedy University of Technology, Cairo
+- Currently in **2nd year**
+
+---
+
+## 🏅 Certifications
+
+- Cisco — **Networking Basics**
+- Cisco — **Packet Tracer**
+- IBM (edX) — **Beginner's Guide to Cybersecurity**
 
 ---
 
 ## 🛡️ About me
 
-- 🎓 Studying **Cybersecurity** at Elsewedy University of Technology, Cairo.
-- 🔍 Interests: network security, threat hunting, incident response, and secure software.
+- 🔍 Interests: network security, threat analysis, incident response, and secure software.
 - 🧪 Hands-on learner — labs, CTFs, and small security-focused projects.
-- 🤝 Open to internships, collaborations, and entry-level security roles.
-- 📫 Reach me via GitHub: [@AshrafMostafaSec](https://github.com/AshrafMostafaSec)
+- 🤝 Open to **internships** (SOC analyst / junior security roles), collaborations, and entry-level positions.
+- 📍 Based in Cairo, Egypt — open to remote or on-site.
 
 ---
 
 ## 🧰 Skills & tools
 
-**Security**
-`Network Security` · `Threat Analysis` · `Incident Response` · `Linux` · `Wireshark` · `Nmap`
+**Security / networking**
+`Linux` · `Networking Fundamentals` · `Wireshark` · `Nmap` · `Packet Tracer`
 
 **Development (supporting)**
 `Python` · `JavaScript / TypeScript` · `Node.js` · `Bash` · `Git` · `GitHub Actions`
@@ -35,12 +49,12 @@ breaking things in labs, then writing about how to defend them.
 
 ## 📂 Projects
 
-> 🚧 My repositories are being rebuilt after a fresh start. Pinned, well-documented
-> projects (with READMEs, tests, and CI) will appear here soon.
+> 🚧 Projects are being built and will be pinned here as they ship
+> (each with a README, tests, and CI).
 
 Planned:
-- A small **network reconnaissance / lab tool** (Python)
 - A **security notes & cheatsheets** repository
+- A small **lab/recon toolkit** (Python, authorized use only)
 - CTF **writeups** with defensive takeaways
 
 ---
@@ -50,17 +64,13 @@ Planned:
 ![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshrafMostafaSec&show_icons=true&theme=default&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafMostafaSec&layout=compact&hide_border=true)
 
-> Stats cards populate automatically once public repositories and activity exist.
-
 ---
 
 ## 🤝 Let's connect
 
-- **GitHub:** [AshrafMostafaSec](https://github.com/AshrafMostafaSec)
-- **Location:** Cairo, Egypt
-- **Hireable:** Yes
-
-> 💡 Tip: Add your LinkedIn, email, or portfolio links here by editing this README.
+- **Email:** [ashraf.0xa7m@gmail.com](mailto:ashraf.0xa7m@gmail.com)
+- **LinkedIn:** [ashrafmsec](https://www.linkedin.com/in/ashrafmsec/)
+- **GitHub:** [@AshrafMostafaSec](https://github.com/AshrafMostafaSec)
 
 ---
 
